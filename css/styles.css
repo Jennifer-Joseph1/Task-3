@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    background-color: rgb(24, 49, 49);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2;
+}
+
+.img{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.text1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}
+
+.text2{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    color: white; 
+}
+
+.social-icon{
+    font-weight: bold;
+    margin: 20px 10px;
+    font-size: larger;
+    font-weight: bolder;
+    padding: 2%;
+    color: rgb(248, 128, 107);
+}
